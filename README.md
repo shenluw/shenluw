@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 每天都在写一些神奇的代码
+- 🌱 玩过 Java、Kotlin、Python、Javascript、Typescript、Lua、C# 等等
+- 📫 想要联系我？可以在下方留言 https://shenluw.top/s/about
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenluw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
